@@ -11,3 +11,5 @@ Schroeder's reverb algorithm
 ### Synthesis
 FM synthesis\
 Karplus–Strong string synthesis
+
+*CKChen 2021, NYU*
